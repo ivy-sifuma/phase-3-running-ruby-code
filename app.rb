@@ -1,5 +1,5 @@
 # app.rb
-puts "Hello world!"
+puts "Hello World!"
 # app.rb
 print "Pass this test, please."
 # app.rb
